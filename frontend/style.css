@@ -1,0 +1,24 @@
+html {
+    background-color: lightsalmon;
+    padding: 5em;
+}
+
+main {
+    background-color: whitesmoke;
+    padding: 5em;
+}
+
+hr {
+    border-top: 5px solid lightsalmon;
+}
+
+h5 {
+    text-decoration: underline;
+
+    font-size: 1em;
+    font-style: italic;
+}
+
+li {
+    list-style: lower-greek;
+}
